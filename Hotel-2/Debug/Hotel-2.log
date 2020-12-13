@@ -1,0 +1,4 @@
+﻿  Hotel-2.cpp
+C:\Users\DW995\Desktop\mp2\Hotel-2\Hotel-2.cpp(78,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\DW995\Desktop\mp2\Hotel-2\Hotel-2.cpp(89,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Hotel-2.vcxproj -> C:\Users\DW995\Desktop\mp2\Hotel-2\Debug\Hotel-2.exe
